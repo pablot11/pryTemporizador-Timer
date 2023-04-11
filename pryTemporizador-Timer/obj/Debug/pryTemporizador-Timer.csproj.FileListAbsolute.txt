@@ -1,0 +1,11 @@
+D:\Escritorio\pryTemporizador-Timer\bin\Debug\pryTemporizador-Timer.exe.config
+D:\Escritorio\pryTemporizador-Timer\bin\Debug\pryTemporizador-Timer.exe
+D:\Escritorio\pryTemporizador-Timer\bin\Debug\pryTemporizador-Timer.pdb
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador-Timer.csproj.AssemblyReference.cache
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador-Timer.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador_Timer.Form1.resources
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador_Timer.Properties.Resources.resources
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador-Timer.csproj.GenerateResource.cache
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador-Timer.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador-Timer.exe
+D:\Escritorio\pryTemporizador-Timer\obj\Debug\pryTemporizador-Timer.pdb
